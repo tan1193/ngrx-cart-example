@@ -6,7 +6,7 @@ State management in anuglar applications using ngrx/store
 
 ## Prerequisites
 - [Angular](https://angular.io)
-- [Express](https://expressjs.com/)
+- [Express](https://expressjs.com/) 
 
 ## Getting started
 - Clone the project and install dependencies:
